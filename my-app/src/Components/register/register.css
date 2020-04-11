@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+ #padlock{
+     padding-top: 7px;
+     padding-left: 9px;
+     height: 40px;
+     width: 40px;
+ }
+ .logoHelp{
+     width: 60px;
+     height:60px;
+     border-radius: 50%;
+     background-color: pink;
+     margin: 0 auto;
+     margin-top:100px;
+     margin-bottom:10px;
+ }
+ .checkbox{
+     padding-left: 32px;
+     padding-right: 38px;
+     text-align: center;
+     font-size: 17px;
+     line-height: 1px;
+     padding-bottom: 10px;
+ }
+ .sign_in{
+    color:#90caf9;
+    margin-right:47px
+ }
