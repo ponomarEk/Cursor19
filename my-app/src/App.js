@@ -2,7 +2,7 @@ import React from 'react';
 import Register from './Components/register/register'
 import SignIn from './Components/sign-in/signIn'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
